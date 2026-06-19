@@ -265,4 +265,4 @@ This repository contains the complete bank of practice questions compiled direct
 
 ### A MINI PROJECT
 ----------------------------------------
-* **Capstone Question:**###  Synthesize multiple modular core workflows, matrix/string arrays, pointer management rules, structure definitions, and file handling pipelines together into a cohesive, functional application solution (e.g., an automated Student Management System, a Bank Record Keeping Suite, or an Inventory Control Application).
+* **Capstone Question:** Synthesize multiple modular core workflows, matrix/string arrays, pointer management rules, structure definitions, and file handling pipelines together into a cohesive, functional application solution (e.g., an automated Student Management System, a Bank Record Keeping Suite, or an Inventory Control Application).
