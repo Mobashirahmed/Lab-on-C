@@ -161,108 +161,108 @@ This repository contains the complete bank of practice questions compiled direct
 
 ### EXERCISE 8: 1-D ARRAYS
 ----------------------------------------
-Question 1: Write a program to allocate and store 10 integer elements inside a 1-D array, and subsequently print the combined sum of all contained items.
-Question 2: Write a program to parse a 1-D array and extract both the absolute minimum and maximum elements present within it.
-Question 3: Write a program to traverse a 1-D array and keep a total count of the number of positive values, negative values, and zero elements stored inside it.
-Question 4: Write a program to find the location index of a target search value inside a 1-D array using the Linear Search technique.
-Question 5: Write a program to sort a collection of array numbers in ascending order using the Bubble Sort algorithm technique.
-Question 6: Write a program to find and extract the second-largest unique numerical value from a populated 1-D integer array.
-Question 7: Write a program to reverse the index alignment configuration of elements stored inside a 1-D array in-place without declaring an auxiliary backup array.
-Question 8: Write a program to read a 1-D array containing duplicate integer values, remove all duplicate occurrences, and shift elements to form a clean, condensed array.
-Question 9: Write a program to calculate and display the individual frequency rate of occurrence for every element contained within a 1-D array.
-Question 10: Write a program to read two separate, pre-sorted 1-D arrays from the user and merge them together into a third comprehensive array while preserving the sorted order.
+* **Question 2:** Write a program to parse a 1-D array and extract both the absolute minimum and maximum elements present within it.
+* **Question 1:** Write a program to allocate and store 10 integer elements inside a 1-D array, and subsequently print the combined sum of all contained items.
+* **Question 3:** Write a program to traverse a 1-D array and keep a total count of the number of positive values, negative values, and zero elements stored inside it.
+* **Question 4:** Write a program to find the location index of a target search value inside a 1-D array using the Linear Search technique.
+* **Question 5:** Write a program to sort a collection of array numbers in ascending order using the Bubble Sort algorithm technique.
+* **Question 6:** Write a program to find and extract the second-largest unique numerical value from a populated 1-D integer array.
+* **Question 7:** Write a program to reverse the index alignment configuration of elements stored inside a 1-D array in-place without declaring an auxiliary backup array.
+* **Question 8:** Write a program to read a 1-D array containing duplicate integer values, remove all duplicate occurrences, and shift elements to form a clean, condensed array.
+* **Question 9:** Write a program to calculate and display the individual frequency rate of occurrence for every element contained within a 1-D array.
+* **Question 10:** Write a program to read two separate, pre-sorted 1-D arrays from the user and merge them together into a third comprehensive array while preserving the sorted order.
 
-EXERCISE 9: 2-D ARRAYS
+### EXERCISE 9: 2-D ARRAYS
 ----------------------------------------
-Question 1: Write a program to perform matrix addition and matrix subtraction on two-dimensional data grids.
-Question 2: Write a program to perform matrix multiplication after explicitly checking the column-to-row compatibility constraints of both input matrices.
-Question 3: Write a program to read a matrix grid and display its corresponding transposed matrix.
-Question 4: Write a program to parse a square matrix and compute the sum of its main (primary) diagonal and secondary diagonal elements.
-Question 5: Write a program to verify whether a user-input square matrix matches the criteria for an Identity Matrix.
-Question 6: Write a program to perform scalar matrix multiplication by accepting a constant multiplier value and scaling every index position in a 2-D array.
-Question 7: Write a program to evaluate whether a user-supplied square matrix is a Symmetric Matrix (where the matrix equals its transpose).
-Question 8: Write a program to compute and display the sum of every individual row and every individual column of a 2-D matrix grid separately.
-Question 9: Write a program to analyze a 2-D matrix and check if it qualifies as a Sparse Matrix (containing more zero elements than non-zero elements).
-Question 10: Write a program to extract and display only the Upper Triangular elements of a user-supplied square matrix grid, setting all lower fields to zero.
+* **Question 1:** Write a program to perform matrix addition and matrix subtraction on two-dimensional data grids.
+* **Question 2:** Write a program to perform matrix multiplication after explicitly checking the column-to-row compatibility constraints of both input matrices.
+* **Question 3:** Write a program to read a matrix grid and display its corresponding transposed matrix.
+* **Question 4:** Write a program to parse a square matrix and compute the sum of its main (primary) diagonal and secondary diagonal elements.
+* **Question 5:** Write a program to verify whether a user-input square matrix matches the criteria for an Identity Matrix.
+* **Question 6:** Write a program to perform scalar matrix multiplication by accepting a constant multiplier value and scaling every index position in a 2-D array.
+* **Question 7:** Write a program to evaluate whether a user-supplied square matrix is a Symmetric Matrix (where the matrix equals its transpose).
+* **Question 8:** Write a program to compute and display the sum of every individual row and every individual column of a 2-D matrix grid separately.
+* **Question 9:** Write a program to analyze a 2-D matrix and check if it qualifies as a Sparse Matrix (containing more zero elements than non-zero elements).
+* **Question 10:** Write a program to extract and display only the Upper Triangular elements of a user-supplied square matrix grid, setting all lower fields to zero.
 
-EXERCISE 10: STRINGS
+### EXERCISE 10: STRINGS
 ----------------------------------------
-Question 1: Write a program demonstrating various string manipulation techniques using standard built-in functions (such as strcpy, strcat, strlen, and strcmp).
-Question 2: Write a program to read a list of multiple strings from the keyboard and output them re-arranged in ascending alphabetical order.
-Question 3: Write a program to verify if a given text string is a palindrome using two distinct methods: a) with built-in string functions, and b) manually without using any library string functions.
-Question 4: Write a program to manually concatenate two distinct string inputs using fundamental array loop manipulation techniques without strcat.
-Question 5: Write a program to read a line of text and count the total number of vowels, consonants, digits, and white spaces present inside it.
-Question 6: Write a program to manually reverse a character string input in-place without using the standard library strrev function.
-Question 7: Write a program to toggle the case of every alphabet inside a string (convert lowercase to uppercase and vice-versa, leaving numbers and symbols untouched).
-Question 8: Write a program to manually compare two text strings character-by-character without utilizing the library function strcmp, returning 0 if identical or the numerical difference if they diverge.
-Question 9: Write a program to manually copy the data contents of a source string into a destination character array without utilizing the library function strcpy.
-Question 10: Write a program to search for a specific character inside a string and output its total frequency count along with all index locations where it was detected.
+* **Question 1:** Write a program demonstrating various string manipulation techniques using standard built-in functions (such as strcpy, strcat, strlen, and strcmp).
+* **Question 2:** Write a program to read a list of multiple strings from the keyboard and output them re-arranged in ascending alphabetical order.
+* **Question 3:** Write a program to verify if a given text string is a palindrome using two distinct methods: a) with built-in string functions, and b) manually without using any library string functions.
+* **Question 4:** Write a program to manually concatenate two distinct string inputs using fundamental array loop manipulation techniques without strcat.
+* **Question 5:** Write a program to read a line of text and count the total number of vowels, consonants, digits, and white spaces present inside it.
+* **Question 6:** Write a program to manually reverse a character string input in-place without using the standard library strrev function.
+* **Question 7:** Write a program to toggle the case of every alphabet inside a string (convert lowercase to uppercase and vice-versa, leaving numbers and symbols untouched).
+* **Question 8:** Write a program to manually compare two text strings character-by-character without utilizing the library function strcmp, returning 0 if identical or the numerical difference if they diverge.
+* **Question 9:** Write a program to manually copy the data contents of a source string into a destination character array without utilizing the library function strcpy.
+* **Question 10:** Write a program to search for a specific character inside a string and output its total frequency count along with all index locations where it was detected.
 
-EXERCISE 11: MATH FUNCTIONS AND I/O FUNCTIONS
+### EXERCISE 11: MATH FUNCTIONS AND I/O FUNCTIONS
 ----------------------------------------
-Question 1: Write a program to read numeric parameters from the keyboard and solve calculations using the standard library functions abs(), sqrt(), floor(), ceil(), and pow().
-Question 2: Write a program to capture and display single-character inputs using unformatted console functions getch() and putch().
-Question 3: Write a program to read and display comprehensive text segments using the unformatted function streams getchar(), putchar(), gets(), and puts().
-Question 4: Write a program using the <math.h> library to compute the trigonometric sine, cosine, and tangent values for a given angle input in degrees (convert degrees to radians first).
-Question 5: Write a program to validate exponential scale shifts by calling the natural logarithm function log() and the exponential function exp() over numeric inputs.
-Question 6: Write a program that demonstrates the explicit behavioral differences between using getch(), getche(), and getchar() for capturing individual characters from the terminal stream.
-Question 7: Write a program to illustrate how gets() can introduce buffer overflow vulnerabilities compared to formatted scanf(), and write a safe method to read string lines.
-Question 8: Write a program to demonstrate the use of advanced formatting width codes inside printf to display floating-point values aligned precisely to 2, 4, and 6 decimal places.
-Question 9: Write a program that uses math utilities to find the absolute value of floating data inputs using fabs() alongside standard integer abs() executions.
-Question 10: Write a program that implements a basic character masking terminal pipeline (e.g., capturing a password input character-by-character using getch() while printing asterisks * onto the active console display).
+* **Question 1:** Write a program to read numeric parameters from the keyboard and solve calculations using the standard library functions abs(), sqrt(), floor(), ceil(), and pow().
+* **Question 2:** Write a program to capture and display single-character inputs using unformatted console functions getch() and putch().
+* **Question 3:** Write a program to read and display comprehensive text segments using the unformatted function streams getchar(), putchar(), gets(), and puts().
+* **Question 4:** Write a program using the <math.h> library to compute the trigonometric sine, cosine, and tangent values for a given angle input in degrees (convert degrees to radians first).
+* **Question 5:** Write a program to validate exponential scale shifts by calling the natural logarithm function log() and the exponential function exp() over numeric inputs.
+* **Question 6:** Write a program that demonstrates the explicit behavioral differences between using getch(), getche(), and getchar() for capturing individual characters from the terminal stream.
+* **Question 7:** Write a program to illustrate how gets() can introduce buffer overflow vulnerabilities compared to formatted scanf(), and write a safe method to read string lines.
+* **Question 8:** Write a program to demonstrate the use of advanced formatting width codes inside printf to display floating-point values aligned precisely to 2, 4, and 6 decimal places.
+* **Question 9:** Write a program that uses math utilities to find the absolute value of floating data inputs using fabs() alongside standard integer abs() executions.
+* **Question 10:** Write a program that implements a basic character masking terminal pipeline (e.g., capturing a password input character-by-character using getch() while printing asterisks * onto the active console display).
 
-EXERCISE 12: FUNCTIONS
+### EXERCISE 12: FUNCTIONS
 ----------------------------------------
-Question 1: Write a program to find the sum of two numbers using a basic user-defined function routine.
-Question 2: Write a function to find the product of two numbers that is structured without arguments and without a return type.
-Question 3: Write a function to calculate the difference between two numbers that is structured without arguments but with a return type.
-Question 4: Write a function to find the sum of two numbers that is structured with arguments but coding without a return type.
-Question 5: Write a function to find the product of two numbers that is structured completely with arguments and with a return type.
-Question 6: Write a user-defined function named findMax that takes three floating-point parameters and returns the absolute largest number among them.
-Question 7: Write a modular program containing a helper function checkPrime that accepts an integer parameter and returns 1 if prime or 0 if composite.
-Question 8: Write a program with a user-defined function that evaluates whether an input parameter is an even or odd number, executing the print routine entirely from inside the helper block.
-Question 9: Write a function that accepts the dimensions of a rectangle, computes its area, and transfers that calculated value back to the main() scope for printing.
-Question 10: Write a modular currency conversion program that features individual standalone functions for transforming Rupees into Dollars, Euros, and Pounds based on exchange constant variables.
+* **Question 1:** Write a program to find the sum of two numbers using a basic user-defined function routine.
+* **Question 2:** Write a function to find the product of two numbers that is structured without arguments and without a return type.
+* **Question 3:** Write a function to calculate the difference between two numbers that is structured without arguments but with a return type.
+* **Question 4:** Write a function to find the sum of two numbers that is structured with arguments but coding without a return type.
+* **Question 5:** Write a function to find the product of two numbers that is structured completely with arguments and with a return type.
+* **Question 6:** Write a user-defined function named findMax that takes three floating-point parameters and returns the absolute largest number among them.
+* **Question 7:** Write a modular program containing a helper function checkPrime that accepts an integer parameter and returns 1 if prime or 0 if composite.
+* **Question 8:** Write a program with a user-defined function that evaluates whether an input parameter is an even or odd number, executing the print routine entirely from inside the helper block.
+* **Question 9:** Write a function that accepts the dimensions of a rectangle, computes its area, and transfers that calculated value back to the main() scope for printing.
+* **Question 10:** Write a modular currency conversion program that features individual standalone functions for transforming Rupees into Dollars, Euros, and Pounds based on exchange constant variables.
 
-EXERCISE 13: FUNCTIONS AND RECURSION
+### EXERCISE 13: FUNCTIONS AND RECURSION
 ----------------------------------------
-Question 1: Write a program to swap the contents of two separate memory variables using two distinct signature frameworks: a) Call By Value, and b) Call By Reference.
-Question 2: Create a program that computes the Factorial of a number and finds its Greatest Common Divisor (GCD) using both non-recursive loops and recursive function modules.
-Question 3: Write a program to perform all foundational arithmetic operations (+, -, *, /) dynamically by manipulating memory address locations with pointers.
-Question 4: Write a program to execute a matrix addition routine by addressing and traversing the 2-D coordinates using pointer references instead of array subscript indices.
-Question 5: Write a program to traverse and output all individual elements of a 1-D array using a pointer step increment strategy.
-Question 6: Write a user-defined function to compute the exact character length of a string by processing its memory references with a pointer loop until encountering the null terminator.
-Question 7: Write a program to clone all values from a source 1-D array into a target destination array utilizing pointer arithmetic tracking workflows.
-Question 8: Write a recursive function module that computes the N-th term of the Fibonacci sequence and explain how the stack frames execute.
-Question 9: Write a program to search for a target value inside a sorted integer array using a recursive implementation of the Binary Search algorithm.
-Question 10: Write a program that declares, initializes, and resolves value tracking using a pointer-to-pointer configuration (a Double Pointer structure ptr).
+* **Question 1:** Write a program to swap the contents of two separate memory variables using two distinct signature frameworks: a) Call By Value, and b) Call By Reference.
+* **Question 2:** Create a program that computes the Factorial of a number and finds its Greatest Common Divisor (GCD) using both non-recursive loops and recursive function modules.
+* **Question 3:** Write a program to perform all foundational arithmetic operations (+, -, *, /) dynamically by manipulating memory address locations with pointers.
+* **Question 4:** Write a program to execute a matrix addition routine by addressing and traversing the 2-D coordinates using pointer references instead of array subscript indices.
+* **Question 5:** Write a program to traverse and output all individual elements of a 1-D array using a pointer step increment strategy.
+* **Question 6:** Write a user-defined function to compute the exact character length of a string by processing its memory references with a pointer loop until encountering the null terminator.
+* **Question 7:** Write a program to clone all values from a source 1-D array into a target destination array utilizing pointer arithmetic tracking workflows.
+* **Question 8:** Write a recursive function module that computes the N-th term of the Fibonacci sequence and explain how the stack frames execute.
+* **Question 9:** Write a program to search for a target value inside a sorted integer array using a recursive implementation of the Binary Search algorithm.
+* **Question 10:** Write a program that declares, initializes, and resolves value tracking using a pointer-to-pointer configuration (a Double Pointer structure ptr).
 
-EXERCISE 14: STRUCTURES
+### EXERCISE 14: STRUCTURES
 ----------------------------------------
-Question 1: Write a program to create a custom user-defined structure for a bank account holder with fields for name, account number, address, and balance. Initialize and display the structured data records for five separate account holders.
-Question 2: Write a program using structures to calculate the cumulative total marks of an individual student, and then evaluate the aggregate average marks for a batch of 10 students.
-Question 3: Create a structure called traveler containing members for train no, coach no, seat no, source, destination, gender, age, name, and departure date. Write routines to populate and display this structure array.
-Question 4: Write a program that illustrates the syntax requirement for passing an entire composite structure entity as an input argument into a function subroutine.
-Question 5: Write a program to model a Book structure holding variables for title, author, pages, and price. Use an array of structures to manage a collection of 3 books and print out the books matching an user-searched author name.
-Question 6: Write a program featuring a structure named Time with fields for hours, minutes, and seconds. Write an execution routine that adds two separate Time objects together, correctly adjusting for overflow parameters.
-Question 7: Write a program utilizing a structure named Distance to store measurements in feet and inches. Write routines to sum up two separate Distance record tracks, converting every 12 inches into an additional foot.
-Question 8: Write a program to demonstrate the operational syntax and layout of a nested structure configuration (placing a DateOfBirth structure inside an outer Employee record block).
-Question 9: Write a program to test and demonstrate the explicit memory size differences between a struct definition and a union definition containing identical internal members using sizeof.
-Question 10: Create an Employee structure tracking empId, name, department, and salary. Build a program to read records for 5 employees and isolate and display the full profile details of the individual drawing the highest salary.
+* **Question 1:** Write a program to create a custom user-defined structure for a bank account holder with fields for name, account number, address, and balance. Initialize and display the structured data records for five separate account holders.
+* **Question 2:** Write a program using structures to calculate the cumulative total marks of an individual student, and then evaluate the aggregate average marks for a batch of 10 students.
+* **Question 3:** Create a structure called traveler containing members for train no, coach no, seat no, source, destination, gender, age, name, and departure date. Write routines to populate and display this structure array.
+* **Question 4:** Write a program that illustrates the syntax requirement for passing an entire composite structure entity as an input argument into a function subroutine.
+* **Question 5:** Write a program to model a Book structure holding variables for title, author, pages, and price. Use an array of structures to manage a collection of 3 books and print out the books matching an user-searched author name.
+* **Question 6:** Write a program featuring a structure named Time with fields for hours, minutes, and seconds. Write an execution routine that adds two separate Time objects together, correctly adjusting for overflow parameters.
+* **Question 7:** Write a program utilizing a structure named Distance to store measurements in feet and inches. Write routines to sum up two separate Distance record tracks, converting every 12 inches into an additional foot.
+* **Question 8:** Write a program to demonstrate the operational syntax and layout of a nested structure configuration (placing a DateOfBirth structure inside an outer Employee record block).
+* **Question 9:** Write a program to test and demonstrate the explicit memory size differences between a struct definition and a union definition containing identical internal members using sizeof.
+* **Question 10:** Create an Employee structure tracking empId, name, department, and salary. Build a program to read records for 5 employees and isolate and display the full profile details of the individual drawing the highest salary.
 
-EXERCISE 15: FILE OPERATIONS USING COMMAND LINE ARGUMENTS
+### EXERCISE 15: FILE OPERATIONS USING COMMAND LINE ARGUMENTS
 ----------------------------------------
-Question 1: Write a standalone terminal program that copies the exact data contents of an existing source file into a newly created target destination file using argc and argv parameters.
-Question 2: Write a program to open an external file stream and reverse the chronological order of the first n text characters stored inside it using command-line input variables.
-Question 3: Write a command-line program that accepts a filename as an argument, opens it, and counts the exact number of characters, lines, and words contained inside the document.
-Question 4: Write a program that reads a target word and a filename via command-line arguments, parses the text document, and checks whether the search word exists inside it.
-Question 5: Write a terminal script program that accepts two text filenames as arguments, reads both streams, and merges their contents sequentially into a third combined output file.
-Question 6: Write a program that reads an integer flag via command-line arguments along with a filename, and prints out only the first N rows of text content from that specified file.
-Question 7: Write a basic file encryption terminal tool that reads a target filename via command-line parameters, shifts every character byte by a fixed numerical key, and saves the modified data back onto disk.
-Question 8: Write a file utility tool using command-line arguments that appends a user-input string block to the very end of an existing text file without overwriting old data records.
-Question 9: Write a program that reads two filenames via command line inputs, compares them character-by-character, and prints out whether the two files are identical or diverge.
-Question 10: Write a file metadata extraction utility program using command line arguments that opens a file stream, calculates its exact total file storage footprint size in kilobytes, and outputs the metric to the user.
+* **Question 1:** Write a standalone terminal program that copies the exact data contents of an existing source file into a newly created target destination file using argc and argv parameters.
+* **Question 2:** Write a program to open an external file stream and reverse the chronological order of the first n text characters stored inside it using command-line input variables.
+* **Question 3:** Write a command-line program that accepts a filename as an argument, opens it, and counts the exact number of characters, lines, and words contained inside the document.
+* **Question 4:** Write a program that reads a target word and a filename via command-line arguments, parses the text document, and checks whether the search word exists inside it.
+* **Question 5:** Write a terminal script program that accepts two text filenames as arguments, reads both streams, and merges their contents sequentially into a third combined output file.
+* **Question 6:** Write a program that reads an integer flag via command-line arguments along with a filename, and prints out only the first N rows of text content from that specified file.
+* **Question 7:** Write a basic file encryption terminal tool that reads a target filename via command-line parameters, shifts every character byte by a fixed numerical key, and saves the modified data back onto disk.
+* **Question 8:** Write a file utility tool using command-line arguments that appends a user-input string block to the very end of an existing text file without overwriting old data records.
+* **Question 9:** Write a program that reads two filenames via command line inputs, compares them character-by-character, and prints out whether the two files are identical or diverge.
+* **Question 10:** Write a file metadata extraction utility program using command line arguments that opens a file stream, calculates its exact total file storage footprint size in kilobytes, and outputs the metric to the user.
 
-A MINI PROJECT
+### A MINI PROJECT
 ----------------------------------------
-Capstone Question: Synthesize multiple modular core workflows, matrix/string arrays, pointer management rules, structure definitions, and file handling pipelines together into a cohesive, functional application solution (e.g., an automated Student Management System, a Bank Record Keeping Suite, or an Inventory Control Application).
+* **Capstone Question:**###  Synthesize multiple modular core workflows, matrix/string arrays, pointer management rules, structure definitions, and file handling pipelines together into a cohesive, functional application solution (e.g., an automated Student Management System, a Bank Record Keeping Suite, or an Inventory Control Application).
