@@ -1,0 +1,41 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Assembly listings
+*.s
+*.asm
+
+# Backup and temporary files
+*~
+*.swp
+*.tmp
+
+# Build directories
+/build/
+/bin/
+/debug/
+/release/
+
+# Logs
+*.log
